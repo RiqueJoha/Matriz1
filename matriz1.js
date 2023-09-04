@@ -1,7 +1,7 @@
 const MIN=1;
-const MAX=100;
+const MAX=50;
 
-const MAX_COL=10;
+const MAX_COL=5;
 const MAX_FIL=10;
 
 const matriz=[];
